@@ -4,7 +4,8 @@
 	"version": "1.0",
 	"description": "a simple demo",
 	"icons": {
-		"16": "images/icon16.png",
+		"19": "images/icon19.png",
+		"38": "images/icon38.png",
 		"48": "images/icon48.png",
 		"128": "images/icon128.png"
 	},
@@ -29,7 +30,6 @@
 	],
 	"permissions": [
 		"http://hq.sinajs.cn/list=*",
-		"http://data.365you.com:8889/",
 		"tabs",
 		"activeTab",
 		"notifications",

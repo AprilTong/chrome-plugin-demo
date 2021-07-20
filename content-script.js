@@ -1,10 +1,6 @@
 ;(function () {
     document.addEventListener('DOMContentLoaded', function () {
-        let paraent = document.getElementsByClassName('preview-show')
-        let atag = paraent[0].getElementsByClassName('down-resume')
-        console.log(atag)
-        console.log(atag[0])
-        console.log('atag', atag[0].href)
+        console.log(document.body.html)
     })
 })()
 // 接收来自后台的消息
